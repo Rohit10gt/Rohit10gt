@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Raj</h1>
-<h3 align="center">A passionate flutter developer & ML student from India</h3>
+<h3 align="center">A passionate Flutter developer & ML student from India</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning<br>💬 Ask me about anything I might be able to help<br>⚡ Fun fact I think I am an overthinker
